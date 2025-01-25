@@ -1,11 +1,11 @@
 *start
 
-[title name="走るか寝るかするメロス"]
+[title name="走るか寝るか食べるかをするメロス"]
 [hidemenubutton]
 [wait time=200]
 [freeimage layer="base"]
 
-「走るか寝るかするメロス」[l][r]
+「走るか寝るか食べるかするメロス」[l][r]
 
 メロスは激怒した。[l][r]
 
@@ -18,6 +18,7 @@
 
 [link target=*tag_sleep] →寝る [endlink][r]
 [link target=*tag_run] →走る [endlink][r]
+[link target=*tag_eat] →食べる [endlink][r]
 [s]
 
 *tag_sleep
